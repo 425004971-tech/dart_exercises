@@ -1,0 +1,4 @@
+name: dart_exercises
+description: A dart exercise for my mobile development class.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
