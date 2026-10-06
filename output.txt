@@ -1,0 +1,11 @@
+Milk Tea Order Summary
+
+Item: Taro Milk tea
+Quantity: 3
+Unit Price: 120.5
+Loyalty Card: true
+Subtotal: 361.5
+Total Payable: 325.35
+Reward Points: 7
+Change Remainder: 25
+Is the total over 300? true
